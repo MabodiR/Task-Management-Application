@@ -14,9 +14,7 @@ This is a task Management app that allows supervisors to create task for their s
 
 - **[Assign Task]**
 - **[Re-Assign task]**
-
-- **[Add Project]**
-- 
+- **[Add/Create Project]**
 - **[Mail Notification]**
 
 
